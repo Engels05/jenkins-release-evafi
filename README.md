@@ -1,5 +1,6 @@
 # Pipeline de Release con Jenkins
 Este paquete contiene:
-- Jenkinsfile
+- Carpeta SRC
 - Script deploy.sh
-- Instrucciones para integración con GitHub
+- Dockerfile
+- Jenkinsfile
