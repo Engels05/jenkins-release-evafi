@@ -4,4 +4,4 @@ Este paquete contiene:
 - Script deploy.sh
 - Dockerfile
 - Jenkinsfile
-- Cambios Prueba text: (hola mundo)
+- Cambios Prueba text
